@@ -1,5 +1,6 @@
 # Learn-Python-The-Hard-Way
 苯办法学python第四版学习笔记
+计划表
 1.第一天 ex01-ex05 20161010
 2.第二天 ex06-ex10 20161011
 3.第三天 ex11-ex15 20161012
