@@ -1,3 +1,4 @@
+#从一个文件复制内容到另外一个文件中
 from sys import argv
 from os.path import exists
 

@@ -1,4 +1,4 @@
-#--coding:utf-8--
+#创建一个文件并写入内容
 from sys import argv
 
 script, filename = argv
@@ -15,7 +15,7 @@ target= open(filename,'w')
 print "Truncating the file. Goodbye!"
 target.truncate()
 
-print "Now I'm going to ask you for three lines.下面三句将被写入文件中"
+print "Now I'm going to ask you for three lines."
 
 line1=raw_input("line 1:")
 line2=raw_input("line 2:")
